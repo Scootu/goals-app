@@ -1,1 +1,2 @@
-# goals-app
+# Course Goal project
+
